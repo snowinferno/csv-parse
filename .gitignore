@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+# keep empty folders
+!.gitkeep
+
+# output does not need to be added to git
+output/
